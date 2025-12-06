@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Public Key Display</title>
+</head>
+<body>
+
+    <h1>🔑 Your Public Key</h1>
+
+    <p>Paste the full content of your public key (e.g., your `id_rsa.pub` or `id_ed25519.pub` file) into the text area below.</p>
+
+    <textarea rows="15" cols="80">
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+bPEyfhdiexIE5ddM0wypLxz7Rbjr
+=Odrx
+-----END PGP PUBLIC KEY BLOCK-----
+
+</textarea>
+
+</body>
+</html>
